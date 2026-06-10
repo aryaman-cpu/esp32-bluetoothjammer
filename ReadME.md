@@ -22,8 +22,8 @@ A simple bluetooth jammer using esp-32 and nrf24.
 | ----- | ------- |
 | VCC   | 3.3V    |
 | GND   | GND     |
-| CE    | GPIO 4  |
-| CSN   | GPIO 5  |
+| CE    | GPIO 22  |
+| CNS   | GPIO 21  |
 | SCK   | GPIO 18 |
 | MOSI  | GPIO 23 |
 | MISO  | GPIO 19 |
